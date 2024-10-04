@@ -24,7 +24,7 @@ const DBNAME = process.env.DBNAME;
 const RABBIT = process.env.RABBIT;
 
 //
-// Application entry point. comment
+// Application entry point. comment hello
 //
 async function main() {
 
